@@ -1,0 +1,76 @@
+
+#cations-div{
+	width: 40%;
+}
+
+#anions-div{
+	width: 30%;
+}
+#neutrals-div{
+	width: 28%;
+}
+
+#submit-div{
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+}
+
+.concentration{
+	margin-right: 20px;
+	font-size: 18px;
+	color: #6f6f6f;
+	font-weight: bold;
+}
+
+.concentration b{
+	font-size: 20px;
+	color: black;
+}
+
+
+.input-div{
+	min-height: 320px;
+	padding: 5px 10px;
+	margin-top: 10px;
+	border: 1px solid;
+	border-color:#b9b9b9;
+	display:inline-block;
+	text-align: left;
+	font-size: 15px;
+}
+
+
+.input-wm-div{
+	padding: 8px;
+	margin-top: 10px;	
+	margin-bottom: 10px;
+	border: 1px solid;
+	border-color:#b9b9b9;
+}
+
+
+.elements-div{
+	text-align: center;
+}
+
+.input_sp {
+	margin-top: 15px;
+}
+
+.pozo_input {
+	padding: 0px 30px;
+	border: solid 1px;
+	border-radius: 5px;
+	border-color: #afafaf;
+}
+
+.pozo_input_wm {
+	height: 420px;
+	overflow: auto;
+	padding: 0px 30px;
+	border: solid 1px;
+	border-radius: 5px;
+	border-color: #afafaf;
+}
+

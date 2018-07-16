@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #e2e2e266 !important;
+    border: 1px solid #99CC33; background: #fff; 
+	-webkit-box-shadow: 5px 5px 0px 0px rgba(204,204,204,1);
+	-moz-box-shadow: 5px 5px 0px 0px rgba(204,204,204,1);
+	box-shadow: 5px 5px 0px 0px rgba(204,204,204,1);
+
+}
+
+.navbar a {
+		color: #004436;
+}
+
+nav.navbar ul.nav li {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.table-condensed{
+  font-size: 10px;
+}
+
+canvas {
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: red;
+}

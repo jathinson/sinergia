@@ -1,0 +1,26 @@
+
+#simulation-general{
+	margin: 20px 15px;
+	padding: 15px;
+	border: 1px solid;
+	border-color: #a7a7a7;
+	border-radius: 5px;
+	background: #ededed;
+}
+
+.submit-button{
+	text-align: center;
+}
+
+
+.title{
+	text-align: center;
+}
+
+#ex1Slider .slider-selection {
+	background: #BAD405;
+}
+
+#ex1Slider .slider-handle {
+	background: green;
+}

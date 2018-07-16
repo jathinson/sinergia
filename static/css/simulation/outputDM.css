@@ -1,0 +1,26 @@
+
+.comparation{
+	padding: 20px;
+	border: 1px solid;
+	border-color: #b9b9b9;
+}
+
+.table-comparation{
+	border:1px solid;
+	border-color: #b9b9b9;
+	font-size: 20px;
+}
+
+
+.title{
+	margin-right: 20px;
+	margin-top: 10px;
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+}
+
+.submit-div{
+	color: white;
+	
+}
